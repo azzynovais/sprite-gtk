@@ -237,11 +237,6 @@
   padding: 8px 10px;
 }
 
-stage {
-	font-family: "Droid Sans", FreeSans;
-  color: #000309;
-}
-
 .cinnamon-link {
   color: #32bef3;
   font-style: italic;
@@ -398,7 +393,7 @@ StScrollView StScrollBar {
 }
 
 #panel {
-    background-color: rgba(245,255,255,0.89);
+    background-color: rgba(245,255,255,0.5);
 	font-weight: bold;
 	color: #222;
 	font-size: 8.5pt;
@@ -1140,6 +1135,27 @@ StScrollView StScrollBar {
 	height: 200px;
 	background-image: url("assets/corner-ripple.png");
 }
+
+.applet-cornerbar {
+  width: 10px;
+  background: transparent;
+}
+
+.applet-cornerbar-box {
+  padding: 0;
+  background: rgba(255, 255, 255, 0.04);
+  border: none;
+  box-shadow: inset 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+.applet-cornerbar-box:hover > .applet-cornerbar {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.applet-cornerbar.vertical {
+  height: 10px;
+}
+
 
 .modal-dialog {
   padding: 16px 20px;
