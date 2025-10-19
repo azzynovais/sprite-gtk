@@ -9,15 +9,7 @@ An theme made for Cinnamon desktop that reflects a bit of ZorinOS guidelines in 
 
 
 ## How to install?
-Download the .zip
-Open the file navigator of Cinnamon or what you use
-Press CTRL + H to see hidden files, put what is inside themes on your .themes folder
-Now apply it on "Themes" on Cinnamon settings
+Download the .zip, open the file navigator of Cinnamon or what you use, press CTRL + H to see hidden files, put what is inside themes on your .themes folder, now apply it on "Themes" on Cinnamon settings
 
 ## Root-wise
-Download the .zip
-Extract it on some folder
-Open the file navigator
-Go to /usr/share/themes, and open it as Sudo using "Open as Root"
-Get the extracted folder of the theme, and then put it on /usr/share/themes
-Apply it with "Themes" on Cinnamon Settings
+Download the .zip, extract it on some folder then open the file navigator, and go to /usr/share/themes, and open it as Sudo using "Open as Root", also get the extracted folder of the theme, and then put it on /usr/share/themes, and then apply it with "Themes" on Cinnamon Settings
