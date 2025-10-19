@@ -540,7 +540,6 @@ StScrollView StScrollBar {
 
 #panel {
     background-color: rgba(245,255,255,0.5);
-	font-weight: bold;
 	color: #222;
 	font-size: 8.5pt;
 	border-radius: 2px;
@@ -577,7 +576,6 @@ StScrollView StScrollBar {
 }
 .panel-right
 #panelLeft.vertical .applet-box:first-child{
-    background-image: url("Menu.png");
     transition-duration: 300;
     background-size: cover;
     width: 35px;
