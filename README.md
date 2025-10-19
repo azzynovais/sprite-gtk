@@ -13,3 +13,7 @@ Download the .zip, open the file navigator of Cinnamon or what you use, press CT
 
 ## Root-wise
 Download the .zip, extract it on some folder then open the file navigator, and go to /usr/share/themes, and open it as Sudo using "Open as Root", also get the extracted folder of the theme, and then put it on /usr/share/themes, and then apply it with "Themes" on Cinnamon Settings
+
+## Extra
+This is best used with Papier icon theme from SECRET-CHEST
+https://www.gnome-look.org/p/1751106
