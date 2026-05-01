@@ -2,7 +2,7 @@
 
 Sprite GTK is a refined fork of Zorin-OS-Modern, specifically optimized for the Cinnamon desktop environment. While many Cinnamon themes are currently broken or outdated, Sprite GTK aims to provide a stable, polished experience that follows the sleek UI guidelines established by the Zorin OS design team.
 # Installation
-User Level (Recommended)
+## User Level (Recommended)
 - Download the .zip archive and extract it.
 - Open your file manager (Nemo, Nautilus, etc.).
 - Press CTRL + H to reveal hidden files and folders.
@@ -10,7 +10,7 @@ User Level (Recommended)
 - Move the extracted theme folder into .themes.
 - Open System Settings > Themes to apply Sprite GTK.
 
-System-Wide (Root)
+## System-Wide (Root)
 - Extract the .zip archive.
 - Open your terminal and move the folder via command line, or open your file manager as root:
 ```
