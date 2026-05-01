@@ -1,19 +1,34 @@
-This is a fork of Zorin-OS-Modern that was seen in gnome-looks, I fixed and made it more looking and correct
-All the right goes to Zorin Group and their design team along the original GTK theme creator
-### Sprite GTK
-An theme made for Cinnamon desktop that reflects a bit of ZorinOS guidelines in UI styling, but since Cinnamon themes are lacking or broken or not able to be used properly
+# Sprite GTK
 
-## Sprite-GTK-Blulemon
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1d0f4c47-1015-4667-8b8f-c4a286bee75c" />
+Sprite GTK is a refined fork of Zorin-OS-Modern, specifically optimized for the Cinnamon desktop environment. While many Cinnamon themes are currently broken or outdated, Sprite GTK aims to provide a stable, polished experience that follows the sleek UI guidelines established by the Zorin OS design team.
+# Installation
+User Level (Recommended)
+- Download the .zip archive and extract it.
+- Open your file manager (Nemo, Nautilus, etc.).
+- Press CTRL + H to reveal hidden files and folders.
+- Locate the .themes folder in your Home directory (create it if it doesn't exist).
+- Move the extracted theme folder into .themes.
+- Open System Settings > Themes to apply Sprite GTK.
 
+System-Wide (Root)
+- Extract the .zip archive.
+- Open your terminal and move the folder via command line, or open your file manager as root:
+```
+    sudo cp -r /path/to/extracted-theme /usr/share/themes/
+```
+- Open System Settings > Themes to apply.
 
+## Recommendations
 
-## How to install?
-Download the .zip, open the file navigator of Cinnamon or what you use, press CTRL + H to see hidden files, put what is inside themes on your .themes folder, now apply it on "Themes" on Cinnamon settings
+For the best visual experience, it is highly recommended to pair this theme with the Papier icon theme by SECRET-CHEST.
 
-## Root-wise
-Download the .zip, extract it on some folder then open the file navigator, and go to /usr/share/themes, and open it as Sudo using "Open as Root", also get the extracted folder of the theme, and then put it on /usr/share/themes, and then apply it with "Themes" on Cinnamon Settings
+    Icon Theme: www.gnome-look.org/p/1751106
+## Credits & Disclaimer
 
-## Extra
-This is best used with Papier icon theme from SECRET-CHEST
-https://www.gnome-look.org/p/1751106
+    Original Concept: Inspired by the Zorin OS design team.
+
+    Base Work: Forked from Zorin-OS-Modern (Gnome-Look).
+
+    Modifications: Fixed UI inconsistencies and improved compatibility for Cinnamon.
+
+# All rights to the original design language belong to the Zorin Group and the original GTK theme creators.
