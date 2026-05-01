@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sprite-GTK-Late
+Comment=The light desktop theme with grey highlights for Cinamon based on ZorinOS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Sprite-GTK-Latte
+MetacityTheme=ZorinGrey-Light
+IconTheme=Papier
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
